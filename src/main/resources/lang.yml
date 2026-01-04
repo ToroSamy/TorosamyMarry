@@ -1,0 +1,72 @@
+reload-message: "&b[服务器娘]&a插件 &eTorosamyEssential &a重载成功喵~"
+player-not-found: "&b[服务器娘]&c抱歉 未查询到对应的玩家"
+
+self-error: "&b[服务器娘]&c错误！您当前进行的操作禁止与自己交互"
+request-not-found: "&b[服务器娘]&c抱歉 未查询到对应的请求"
+request-repeat: "&b[服务器娘]&c您和对方之间已经有了一个结婚请求"
+
+self-has-married: "&b[服务器娘]&c请不要脚踏多条船哦"
+target-has-married: "&b[服务器娘]&c对方已经有自己的归属了"
+
+request-sender-expired: "&b[服务器娘]&a您向玩家 &e %player_name% &a发起的请求已过期"
+request-receiver-expired: "&b[服务器娘]&a玩家 &e %player_name% &a向您发起的请求已过期"
+
+
+request-send: "&b[服务器娘]&a您向玩家 &e%player_name%&a 发起了一个结婚请求"
+request-receive: "&b[服务器娘]&a玩家 &e%player_name%&a 向您发起了一个结婚请求"
+
+request-accept-big-title: "&a恭喜新婚"
+request-accept-small-title: "&a男方 &e%man_name%&a 和女方 &e%woman_name%"
+
+single-error: "&b[服务器娘]&c您目前还处于单身状态"
+divorce-sender: "&b[服务器娘]&a您选择了离婚, 离婚已经被记录"
+divorce-receiver: "&b[服务器娘]&a对方选择了离婚, 离婚已经被记录"
+
+set-home-self: "&b[服务器娘]&a成功设置当前脚下位置为您与伴侣共同的家"
+set-home-other: "&b[服务器娘]&a您的伴侣为共同的家重新设置了位置"
+
+
+not-set-any-home: "&b[服务器娘]&c抱歉 您与伴侣还未设置过共同的家"
+not-nearby: "&b[服务器娘]&c抱歉 您的伴侣不在附近"
+
+teleport-task-move: "&b[服务器娘]&c传送取消！你在倒计时期间移动了。"
+teleport-task-big-title: "&a传送将于 &e%s &a秒开始"
+teleport-task-small-title: "&a请勿移动"
+teleport-task-unsafe: "&b[服务器娘]&c传送失败! 传送地点不安全"
+  
+partner-offline-message: "&b[服务器娘]&c您的伴侣还没有上线。下线日期: &e%time%"
+partner-online-message: "&b[服务器娘]&a您的伴侣还在线上"
+
+partner-online-big-title: "&a您的伴侣上线啦"
+partner-online-small-title: "&a甚是想念"
+
+partner-offline-big-title: "&a您的伴侣下线啦"
+partner-offline-small-title: "&a再见咯"
+
+kiss-big-title: "&a伴侣亲吻了您"
+kiss-small-title: "&a磕糖"
+
+hug-big-title: "&a伴侣拥抱了您"
+hug-small-title: "&a磕糖"
+
+duration-format: "&b[服务器娘]&a已经有 &e%d%&a 天 &e%h%&a 小时 &e%m%&a 分钟 &e%s%&a 秒"
+  
+lookup-start-time: "&b[服务器娘]&a结婚纪念日: &e%time%"
+
+placeholder-api-married: "已婚"
+placeholder-api-unmarried: "单身"
+
+help:
+  - "&7&m                          &6结婚指令&7&m                          "
+  - "&6/marry invite-as-man 玩家名 &8-&7 作为男方向玩家求婚"
+  - "&6/marry invite-as-woman 玩家名 &8-&7 作为女方向玩家求婚"
+  - "&6/marry accept 玩家名 &8-&7 接受玩家的求婚"
+  - "&6/marry divorce &8-&7 离婚"
+  - "&6/marry time &8-&7 查看结婚纪念日"
+  - "&6/marry bag &8-&7 查看伴侣的背包"
+  - "&6/marry sethome &8-&7 设置共同的家"
+  - "&6/mhome &8-&7 传送回共同的家"
+  - "&6/mtp &8-&7 传送至伴侣身边"
+  - "&6/kiss &8-&7 亲吻伴侣"
+  - "&6/hug &8-&7 拥抱伴侣"
+  - "&7&m                                                             "

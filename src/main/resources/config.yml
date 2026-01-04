@@ -1,0 +1,7 @@
+timestamp-format: "yyyy-MM-dd HH:mm:ss"
+
+request-expired-time: 120
+teleport-wait-time: 3
+teleport-wait-time-bypass-permission: "torosamymarry.home.wait.time.bypass"
+kiss-distance: 3
+hug-distance: 3

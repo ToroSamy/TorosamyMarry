@@ -1,0 +1,8 @@
+name: TorosamyMarry
+version: '1.0-SNAPSHOT'
+main: net.torosamy.torosamyMarry.TorosamyMarry
+api-version: '1.13'
+authors: [ Torosamy,yweiyang ]
+website: https://www.bitlie.net
+depend:
+  - TorosamyCore
